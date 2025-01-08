@@ -1,2 +1,9 @@
 import java.io.*;
-impor
+import java. util;
+class Mea
+{
+public static void main(String args[]}
+{
+System. out. println("Hi mea") ;
+}
+}
